@@ -11,7 +11,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Zemanta/avro"/pkg/crc64"
+	"github.com/Zemanta/avro/pkg/crc64"
 	jsoniter "github.com/json-iterator/go"
 )
 

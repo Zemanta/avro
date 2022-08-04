@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Zemanta/avro"/registry"
+	"github.com/Zemanta/avro/registry"
 )
 
 func Example() {

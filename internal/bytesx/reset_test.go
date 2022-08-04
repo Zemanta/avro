@@ -4,7 +4,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/Zemanta/avro"/internal/bytesx"
+	"github.com/Zemanta/avro/internal/bytesx"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

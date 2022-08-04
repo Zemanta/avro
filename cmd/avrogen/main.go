@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Zemanta/avro"/gen"
+	"github.com/Zemanta/avro/gen"
 )
 
 type rawOpts struct {

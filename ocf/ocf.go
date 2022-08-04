@@ -14,7 +14,7 @@ import (
 	"io"
 
 	"github.com/Zemanta/avro"
-	"github.com/hamba/avro/v2/internal/bytesx"
+	"github.com/Zemanta/avro"/internal/bytesx"
 )
 
 const (

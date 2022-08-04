@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/Zemanta/avro"
-	"github.com/hamba/avro/v2/ocf"
+	"github.com/Zemanta/avro"/ocf"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

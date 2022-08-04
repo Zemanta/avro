@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/hamba/avro/v2"
+	"github.com/Zemanta/avro"
 	"github.com/hamba/avro/v2/internal/bytesx"
 )
 

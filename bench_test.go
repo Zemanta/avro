@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hamba/avro/v2"
+	"github.com/Zemanta/avro"
 )
 
 type Superhero struct {

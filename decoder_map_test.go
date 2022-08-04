@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/hamba/avro/v2"
+	"github.com/Zemanta/avro"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

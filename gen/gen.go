@@ -10,8 +10,8 @@ import (
 	"strings"
 	"text/template"
 
+	"github.com/Zemanta/avro"
 	"github.com/ettle/strcase"
-	"github.com/hamba/avro/v2"
 )
 
 // Config exposes the options available for the code generation.
